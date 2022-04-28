@@ -2,7 +2,7 @@
 
 <h2><strong>About</strong></h2>
 
-I am a software developer mostly focused on Lua & Roblox. Founder & Developer at [**AirTeam**](https://discord.gg/QqBDMhjX82).
+I am a software developer mostly focused on Lua & Roblox.
 
 <h2><strong>Languages</strong></h2>
 
