@@ -2,7 +2,7 @@
 
 <h2><strong>About</strong></h2>
 
-#### Software developer for [AirTeam](https://discord.com/Ncz3H3quUZ).
+#### Software developer for [AirTeam](https://discord.com/invite/Ncz3H3quUZ).
 
 <h2><strong>Languages</strong></h2>
 
