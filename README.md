@@ -3,7 +3,7 @@
 <h2><strong>About</strong></h2>
 
 #### Software developer for [AirTeam](https://discord.com/invite/Ncz3H3quUZ).
-
+<!---
 <h2><strong>Languages</strong></h2>
 
 <p float="left">
@@ -13,19 +13,22 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="70"/>
 </p>
-
+--->
 <h2><strong>Statistics</strong></h2>
 
-![Stats](https://github-readme-stats.vercel.app/api/?username=Exunys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&custom_title=Exunys's%20Statistics)
+![Stats](https://github-readme-stats.vercel.app/api/?username=Exunys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&custom_title=Exunys's%20Statistics) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Exunys&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=Exunys's%20Most%20Used%20Languages)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Exunys&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=Exunys's%20Most%20Used%20Languages)
+## My Accounts
+- [Replit](https://replit.com/@Exunys)
+- [Pastebin](https://pastebin.com/u/Exunys)
+- [ScriptBlox](https://scriptblox.com/u/Exunys)
+- [RScripts](https://rscripts.net/u/aleksandar)
 
 ## Contact Information
 - [E-Mail](mailto:exunys@gang.email)
 - [Discord](https://discord.com/users/611111398818316309)
 
-<details>
-<summary>Public PGP Key</summary>
+<details> <summary>Public PGP Key</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
