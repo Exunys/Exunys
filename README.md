@@ -23,6 +23,7 @@
 - [Pastebin](https://pastebin.com/u/Exunys)
 - [ScriptBlox](https://scriptblox.com/u/Exunys)
 - [RScripts](https://rscripts.net/u/aleksandar)
+- [YouTube](https://www.youtube.com/@exunys)
 
 ## Contact Information
 - [E-Mail](mailto:exunys@gang.email)
