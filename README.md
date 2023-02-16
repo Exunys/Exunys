@@ -19,6 +19,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api/?username=Exunys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&custom_title=Exunys's%20Statistics) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Exunys&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=Exunys's%20Most%20Used%20Languages)
 
 ## My Accounts
+- [Biolink](https://feds.lol/exunys)
 - [Replit](https://replit.com/@Exunys)
 - [Pastebin](https://pastebin.com/u/Exunys)
 - [ScriptBlox](https://scriptblox.com/u/Exunys)
