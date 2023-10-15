@@ -3,6 +3,9 @@
 <h2><strong>About</strong></h2>
 
 **Software developer for [AirTeam](https://discord.com/invite/Ncz3H3quUZ).**
+
+You can find more of my projects on my [replit](https://replit.com/@Exunys).
+
 <!---
 <h2><strong>Languages</strong></h2>
 
