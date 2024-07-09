@@ -1,10 +1,5 @@
-# Information
-
-<h2><strong>About</strong></h2>
-
-**Software developer for [AirTeam](https://discord.com/invite/Ncz3H3quUZ).**
-
-You can find more of my projects on my [replit](https://replit.com/@Exunys).
+<h1 align="center">😎 Exunys 😎</h1>
+<h2 align="center">Software developer for <a href="https://discord.com/invite/Ncz3H3quUZ">AirTeam</a>
 
 <!---
 <h2><strong>Languages</strong></h2>
@@ -17,23 +12,47 @@ You can find more of my projects on my [replit](https://replit.com/@Exunys).
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="70"/>
 </p>
 --->
-<h2><strong>Statistics</strong></h2>
+
+<br>
+<br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Exunys&left_color=red&right_color=purple) 
 
+</h2>
+
+<h2 align = "center">
+  
 ![Stats](https://github-readme-stats.vercel.app/api/?username=Exunys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&custom_title=Exunys's%20Statistics) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Exunys&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=Exunys's%20Most%20Used%20Languages)
 
-## My Accounts
-- [Biolink](https://feds.lol/exunys)
-- [Replit](https://replit.com/@Exunys)
-- [Pastebin](https://pastebin.com/u/Exunys)
-- [ScriptBlox](https://scriptblox.com/u/Exunys)
-- [RScripts](https://rscripts.net/u/aleksandar)
-- [YouTube](https://www.youtube.com/@exunys)
+</h2>
 
-## Contact Information
-- [E-Mail](mailto:exunys@gang.email)
-- [Discord](https://discord.com/users/611111398818316309)
+<h2 align = "center"> Other Accounts
+  
+<br>
+<br>
+  
+[Replit](https://replit.com/@Exunys)
+
+[Pastebin](https://pastebin.com/u/Exunys)
+
+[ScriptBlox](https://scriptblox.com/u/Exunys)
+
+[YouTube](https://www.youtube.com/@exunys)
+
+</h2>
+
+<h1 align="center">📧 Contact Information 📧
+  
+<br>
+<br>
+
+[E-Mail](mailto:exunys@gang.email)
+
+[Discord](https://discord.com/users/611111398818316309)
+
+</h1>
+
+<br>
 
 <details> <summary>Public PGP Key</summary>
 
