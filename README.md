@@ -52,7 +52,7 @@
 
 <h2 align="center">
 
-[E-Mail](mailto:exunys@gang.email)
+[E-Mail](mailto:exunys@gmail.com)
 
 [Discord](https://discord.com/users/611111398818316309)
 
