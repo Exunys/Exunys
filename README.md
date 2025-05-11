@@ -56,6 +56,4 @@
 
 [Discord](https://discord.com/users/611111398818316309)
 
-[Telegram](https://t.me/exunys) (*MOST ACTIVE*)
-
 </h2>
