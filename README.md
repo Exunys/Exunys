@@ -1,5 +1,5 @@
 <h1 align="center">😎 Exunys 😎</h1>
-<h2 align="center">Software developer for <a href="https://discord.com/invite/Ncz3H3quUZ">AirTeam</a>
+<h2 align="center">Founder and software developer at <a href="https://discord.com/invite/Ncz3H3quUZ">AirTeam</a>
 
 <!---
 <h2><strong>Languages</strong></h2>
